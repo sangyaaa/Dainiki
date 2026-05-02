@@ -1,8 +1,8 @@
 <?php
 // config.php
-define('SITE_NAME', 'LedgerSys');
-define('SITE_URL', 'http://localhost/ledger'); // Change this
-define('ADMIN_EMAIL', 'admin@ledgersys.com');
+define('SITE_NAME',  ' ');
+define('SITE_URL', ' '); // Change this
+define('ADMIN_EMAIL', ' ');
 
 // Security
 define('MAX_LOGIN_ATTEMPTS', 5);
